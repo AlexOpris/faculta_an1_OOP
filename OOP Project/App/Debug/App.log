@@ -1,0 +1,7 @@
+﻿  Electric.cpp
+C:\Users\opris\OneDrive\Desktop\OOP\OOP Project\App\Electric.cpp(4,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Tests.cpp
+C:\Users\opris\OneDrive\Desktop\OOP\OOP Project\App\Tests.cpp(15,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\opris\OneDrive\Desktop\OOP\OOP Project\App\Tests.cpp(16,55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  App.vcxproj -> C:\Users\opris\OneDrive\Desktop\OOP\OOP Project\App\Debug\App.exe
