@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Seminar 2.cpp
+  StaticArray.cpp
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(6,8): error C2248: 'StaticArray::length': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(7): message : see declaration of 'StaticArray::length'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(7,8): error C2248: 'StaticArray::capacity': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(8): message : see declaration of 'StaticArray::capacity'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(12,12): error C2248: 'StaticArray::length': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(7): message : see declaration of 'StaticArray::length'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(12,26): error C2248: 'StaticArray::capacity': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(8): message : see declaration of 'StaticArray::capacity'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(14,8): error C2248: 'StaticArray::data': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(9): message : see declaration of 'StaticArray::data'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(14,17): error C2248: 'StaticArray::length': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(7): message : see declaration of 'StaticArray::length'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.cpp(15,8): error C2248: 'StaticArray::length': cannot access private member declared in class 'StaticArray'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(7): message : see declaration of 'StaticArray::length'
+C:\Users\opris\OneDrive\Desktop\OOP\Seminar 2\StaticArray.h(5): message : see declaration of 'StaticArray'
+  Generating Code...
