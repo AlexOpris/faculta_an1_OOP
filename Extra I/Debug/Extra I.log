@@ -1,0 +1,8 @@
+﻿  Extra I.cpp
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(23,19): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(24,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(53,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(60,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Extra I.cpp(93,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Extra I.vcxproj -> C:\Users\opris\OneDrive\Desktop\OOP\Extra I\Extra I\Debug\Extra I.exe
